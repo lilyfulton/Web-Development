@@ -66,8 +66,16 @@ body{
 
 #what h1 {
     text-align: center;
-    padding: 25px, 0;
-    background-color: #6B9;
-    color: white;
+    padding: 20px, 0;
+    background-color: rgba;
+    color: steelblue;
     
+}
+
+
+
+#sponsor h2{
+    text-align: center;
+    padding: 20px, 0;
+    color: steelblue;
 }
