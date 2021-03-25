@@ -20,9 +20,18 @@
         }
         
         #blue {
+            display: grid;
             background-color: blue;
-            grid-column: 1/4;
+            grid-template-columns: 20%;
+            grid-column: 1/5;
             height: 200px;
+            padding: 20px;
+        }
+        
+        .yellow { 
+        background-color: yellow;
+        margin: 200px;
+        
         }
         
         .red {
@@ -32,7 +41,7 @@
         
         #green {
             background-color: lime;
-            grid-column: 1/4;
+            grid-column: 1/5;
             height: 200px;
         }
 </style>
@@ -44,7 +53,9 @@
 <body>
     
     <div id="container">
-     <div id="blue"></div>  
+     <div id="blue">
+        <div class="yellow"></div>
+     </div>  
      <div class="red"></div>
      <div class="red"></div>
      <div class="red"></div>
