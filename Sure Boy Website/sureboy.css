@@ -2,7 +2,7 @@
 
 
 body{
-    background-color: pink;
+    background-color: black;
     margin: 0 0 0 0;
     font-family: 'Bungee', cursive;
 }
@@ -11,22 +11,27 @@ body{
     margin: auto;
     font-size: 2rem;
     text-align: center;
-   
-    color: orange;
+    color: dodgerblue;
 }
 
 .links a { 
-color: dodgerblue;
+color: lightpink;
 padding-top: 90x;  
 padding-left: 10px;
 padding-right: 10px;
 text-decoration: none;
 }
 
+
+.saturn {
+    padding-left: 60px;
+    padding-top: 100px;
+   
+}
+
 .image {
     padding-left: 200px;
     padding-right: 200px;
-    padding-top: 100px;
     padding-bottom: 300px;
-    
 }
+
