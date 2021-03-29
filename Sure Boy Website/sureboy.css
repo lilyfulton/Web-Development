@@ -12,6 +12,7 @@ body{
     font-size: 2rem;
     text-align: center;
     color: dodgerblue;
+    text-decoration: none;
 }
 
 .links a { 
@@ -19,19 +20,16 @@ color: lightpink;
 padding-top: 90x;  
 padding-left: 10px;
 padding-right: 10px;
-text-decoration: none;
 }
 
 
-.saturn {
-    padding-left: 60px;
-    padding-top: 100px;
-   
-}
 
 .image {
     padding-left: 200px;
     padding-right: 200px;
-    padding-bottom: 300px;
+    padding-top: 80px;
 }
 
+.saturn {
+    padding-left: 60px;
+}
