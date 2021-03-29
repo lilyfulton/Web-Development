@@ -11,12 +11,22 @@ body{
     margin: auto;
     font-size: 2rem;
     text-align: center;
+   
     color: orange;
 }
 
 .links a { 
 color: dodgerblue;
+padding-top: 90x;  
 padding-left: 10px;
 padding-right: 10px;
 text-decoration: none;
+}
+
+.image {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 300px;
+    
 }
