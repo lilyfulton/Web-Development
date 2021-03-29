@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Oi&display=swap');
 
 
 body{
-    background-color: #F2F2F2;
+    background-color: pink;
     margin: 0 0 0 0;
-    font-family: 'Oi', cursive;
+    font-family: 'Bungee', cursive;
 }
 
 .links{
-    margin-top: 40px;
-    font-size: 0.75rem;
-    text-align: right;
-    color: yellow;
+    margin: auto;
+    font-size: 2rem;
+    text-align: center;
+    color: orange;
 }
 
 .links a { 
-color: green;
+color: dodgerblue;
 padding-left: 10px;
 padding-right: 10px;
 text-decoration: none;
