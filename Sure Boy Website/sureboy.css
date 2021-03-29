@@ -1,0 +1,13 @@
+.links{
+    margin-top: 40px;
+    font-size: 0.75rem;
+    text-align: right;
+    color: black;
+}
+
+.links a { 
+color: red;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;
+}
